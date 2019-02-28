@@ -33,7 +33,7 @@ GSA has a [credit union](https://www.gsafcu.gsa.gov/). It is free and easy to jo
 
 ## Discounts
 
-Organizations across the United States offer a number of discounts to federal employees. Specific discounts are covered [here](http://www.govexec.com/federal-news/2013/10/gimme-my-discount/29165/), [here](http://www.fedsave.com/), and [here](https://www.govloop.com/top-50-discounts-for-government-employees/), but some highlights include:
+Organizations across the United States offer a number of discounts to federal employees. Specific discounts are covered [here](http://www.fedsave.com/) and [here](https://www.govloop.com/top-50-discounts-for-government-employees/), but some highlights include:
 
 * Major cell phone carriers offer a 15% discount on cell plans to all federal employees&mdash;just ask!
 * Apple offers a discount (~10%) to feds when they buy personal equipment.
